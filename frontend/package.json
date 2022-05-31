@@ -1,0 +1,30 @@
+{
+  "name": "bortamatch",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "^1.1.7",
+    "@chakra-ui/react": "^2.0.0",
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "@reduxjs/toolkit": "^1.8.1",
+    "@supabase/supabase-js": "^1.35.3",
+    "chakra-react-select": "^4.0.0",
+    "framer-motion": "^6.3",
+    "next": "12.1.6",
+    "next-redux-wrapper": "^7.0.5",
+    "react": "18.1.0",
+    "react-dom": "18.1.0",
+    "react-redux": "^8.0.1"
+  },
+  "devDependencies": {
+    "eslint": "8.15.0",
+    "eslint-config-next": "12.1.6"
+  }
+}
